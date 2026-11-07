@@ -18,7 +18,7 @@ if [ -d "SAKIB-TERMUX-PRO-MAX" ]; then
 else
     git clone https://github.com/rdxsakib65/SAKIB-TERMUX-PRO-MAX.git
     cd SAKIB-TERMUX-PRO-MAX
-fi
+
 
 # Fix main script filename reference
 sed -i 's/termux-pro\.sh/termux-pro-max.sh/g' install.sh
