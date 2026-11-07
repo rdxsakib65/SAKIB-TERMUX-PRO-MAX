@@ -19,7 +19,7 @@ A premium Termux customization project featuring:
 pkg update -y
 pkg install git -y
 
-git clone https://github.com/rdxsakib65/Termux-theme-.git
+git clone https://github.com/rdxsakib65/SAKIB-TERMUX-PRO-MAX.git
 
 cd Termux-theme-
 
